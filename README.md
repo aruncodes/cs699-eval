@@ -1,3 +1,4 @@
+######          Note: Lab8 has its own README.md
 
 1. The submitted tar.gz files of students must be in the same folder where eval.sh is in. 
 2. The file name of submissions must STRICTLY be in the format ROLLNO_LABNO.tag.gz . If its not, PLEASE RENAME THE TAR.GZ TO MATCH IT.
